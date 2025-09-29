@@ -1,0 +1,10 @@
+12345678 Juan Pérez H 5 3
+87654321 María López F 7 10
+11223344 Carlos Ramírez H 3 1
+44332211 Ana Torres F 9 15
+55667788 Pedro González H 2 4
+99887766 Laura Fernández F 6 8
+22334455 Jorge Martínez H 10 20
+66778899 Sofía Castro F 4 2
+33445566 Luis Herrera H 8 12
+77889900 Carmen Díaz F 1 0

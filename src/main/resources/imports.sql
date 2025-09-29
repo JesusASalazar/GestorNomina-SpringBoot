@@ -1,0 +1,9 @@
+INSERT INTO bases_salariales (base) VALUES (70000);
+INSERT INTO bases_salariales (base) VALUES (90000);
+INSERT INTO bases_salariales (base) VALUES (110000);
+INSERT INTO bases_salariales (base) VALUES (130000);
+INSERT INTO bases_salariales (base) VALUES (150000);
+INSERT INTO bases_salariales (base) VALUES (170000);
+INSERT INTO bases_salariales (base) VALUES (190000);
+INSERT INTO bases_salariales (base) VALUES (210000);
+INSERT INTO bases_salariales (base) VALUES (230000);
