@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"Laboral"},{"l":"Laboral.library.enums"},{"l":"Laboral.model.entities"},{"l":"Laboral.repository"},{"l":"Laboral.rules.exceptions"},{"l":"Laboral.rules.format"},{"l":"Laboral.service"},{"l":"Laboral.Util"}];updateSearchResults();
